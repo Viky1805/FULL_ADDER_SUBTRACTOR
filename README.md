@@ -50,10 +50,15 @@ Full Subtractor
 **Procedure**
 
 1.Type the program in Quartus software.
+
 2.Compile and run the program.
+
 3.Generate the RTL schematic and save the logic diagram.
+
 4.Create nodes for inputs and outputs to generate the timing diagram.
+
 5.For different input combinations generate the timing diagram.
+
 
 **Program:**
 ``` 
@@ -73,15 +78,21 @@ endmodule
 ```
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
-Developed by:Vignesh S 
+Developed by:Vignesh S
+
 RegisterNumber:212224110061
+
 */
 **RTL Schematic**
 ![image](https://github.com/user-attachments/assets/ca9c3b03-dc3a-418c-8fe4-b82b53c0540b)
+
 ![image](https://github.com/user-attachments/assets/6f400424-089b-47cd-a7ac-24cc9c58acc7)
+
 **Output Timing Waveform**
 ![image](https://github.com/user-attachments/assets/649ff7ee-5d11-4d3b-abdb-b6ac9253266c)
+
 ![image](https://github.com/user-attachments/assets/f1f2fe2e-6125-4703-9d5b-b4b9a5faa0c7)
+
 **Result:**
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
