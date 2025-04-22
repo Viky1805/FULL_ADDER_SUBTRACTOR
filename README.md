@@ -39,9 +39,12 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 
 Full Adder
+
 ![Full-Adder-Truth-Table-](https://github.com/user-attachments/assets/7e9223bf-a3c4-4e5f-964a-96243e398348)
 
+
 Full Subtractor
+
 ![full-subtractor](https://github.com/user-attachments/assets/060a9863-3c4d-4b7f-9139-1360a46b1ded)
 
 **Procedure**
