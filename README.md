@@ -1,4 +1,4 @@
-# FULL_ADDER_SUBTRACTOR
+# Implementation of Full adder and Full subtractor circuits using Verilog HDL
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
